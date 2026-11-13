@@ -1,0 +1,10 @@
+# Fortnite Download
+
+Fortnite Download is an independent English guide for installing Fortnite from official sources.
+
+## Main page
+- [Fortnite Download](https://fortnitedownload.github.io/): platform instructions for Windows PC, PlayStation, Xbox, Nintendo Switch, Android, and iPhone.
+- The page includes storage planning, account safety, requirements, troubleshooting, and an FAQ.
+
+## Source policy
+Use Epic Games and official platform stores for downloads. Platform availability and requirements can change, so verify current details at the linked official source.
